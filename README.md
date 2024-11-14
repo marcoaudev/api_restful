@@ -67,3 +67,6 @@ cd nome-do-repositorio</code></pre>
     <li><code>DELETE /task/{id}</code>: Remove uma entidade.</li>
 </ul>
 
+<h2>Link do documento acadêmico</h2>
+<li>Acesse o documento:  <a href="https://docs.google.com/document/d/10dQ0tXh_EyRjE_NebK8LgsMe9wdHEWIv" target="_blank">link</a></li>
+
