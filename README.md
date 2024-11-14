@@ -68,5 +68,5 @@ cd nome-do-repositorio</code></pre>
 </ul>
 
 <h2>Link do documento acadêmico</h2>
-<li>Acesse o documento:  <a href="[https://docs.google.com/document/d/10dQ0tXh_EyRjE_NebK8LgsMe9wdHEWIv](https://docs.google.com/document/d/10dQ0tXh_EyRjE_NebK8LgsMe9wdHEWIv/edit?usp=sharing&ouid=103910744365068285007&rtpof=true&sd=true)" target="_blank">link</a></li>
+<li>Acesse o documento:  <a href="https://docs.google.com/document/d/10dQ0tXh_EyRjE_NebK8LgsMe9wdHEWIv](https://docs.google.com/document/d/10dQ0tXh_EyRjE_NebK8LgsMe9wdHEWIv/edit?usp=sharing&ouid=103910744365068285007&rtpof=true&sd=true)" target="_blank">link</a></li>
 
