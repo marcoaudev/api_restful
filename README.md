@@ -5,8 +5,18 @@
     Este projeto é uma API RESTful desenvolvida com o framework Play, utilizando Scala e projetada para operações de CRUD (Create, Read, Update, Delete). 
     A API é adequada para qualquer aplicação que necessite de uma interface para manipulação de dados com endpoints de fácil integração. 
     Com uma arquitetura robusta, ela segue os princípios REST, oferecendo recursos escaláveis para operações em entidades de dados. Não foi feito nenhuma interface, pois a aplicação é um trabalho
-    da faculdade para apenas ser testada via Postman.
+    da faculdade em grupo, para apenas ser testada via Postman.
 </p>
+
+<h2>Componentes</h2>
+<ol>
+    <li>Heder Moreira David</li>
+    <li>João Vitor Lemos Oliveira</li>
+    <li>Júlia Macêdo Galvão de Carvalho</li>
+    <li>Luana de Jesus Rocha</li>
+    <li>Rebeca Freitas Almeida</li>
+</ol>
+    
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>
@@ -50,10 +60,10 @@ cd nome-do-repositorio</code></pre>
 <h2>Estrutura de Endpoints</h2>
 <p>A API fornece os seguintes endpoints:</p>
 <ul>
-    <li><code>GET /entidade</code>: Retorna uma lista de entidades.</li>
-    <li><code>POST /entidade</code>: Cria uma nova entidade.</li>
-    <li><code>GET /entidade/{id}</code>: Retorna detalhes de uma entidade específica.</li>
-    <li><code>PUT /entidade/{id}</code>: Atualiza uma entidade existente.</li>
-    <li><code>DELETE /entidade/{id}</code>: Remove uma entidade.</li>
+    <li><code>GET /task</code>: Retorna uma lista de entidades.</li>
+    <li><code>POST /task</code>: Cria uma nova entidade.</li>
+    <li><code>GET /task/{id}</code>: Retorna detalhes de uma task específica.</li>
+    <li><code>PUT /task/{id}</code>: Atualiza uma entidade existente.</li>
+    <li><code>DELETE /task/{id}</code>: Remove uma entidade.</li>
 </ul>
 
