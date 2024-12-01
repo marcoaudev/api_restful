@@ -60,11 +60,10 @@ cd nome-do-repositorio</code></pre>
 <h2>Estrutura de Endpoints</h2>
 <p>A API fornece os seguintes endpoints:</p>
 <ul>
-    <li><code>GET /task</code>: Retorna uma lista de entidades.</li>
-    <li><code>POST /task</code>: Cria uma nova entidade.</li>
-    <li><code>GET /task/{id}</code>: Retorna detalhes de uma task específica.</li>
-    <li><code>PUT /task/{id}</code>: Atualiza uma entidade existente.</li>
-    <li><code>DELETE /task/{id}</code>: Remove uma entidade.</li>
+    <li><code>GET /task</code>: Retorna uma lista de tarefas.</li>
+    <li><code>POST /task</code>: Cria uma nova tarefa.</li>
+    <li><code>PUT /task/{id}</code>: Atualiza uma tarefa existente.</li>
+    <li><code>DELETE /task/{id}</code>: Remove uma tarefa.</li>
 </ul>
 
 <h2>Link do documento acadêmico</h2>
