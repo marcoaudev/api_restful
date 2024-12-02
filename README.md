@@ -13,6 +13,7 @@
     <li>Heder Moreira David</li>
     <li>João Vitor Lemos Oliveira</li>
     <li>Júlia Macêdo Galvão de Carvalho</li>
+    <li>Marco Aurélio Garcia Silva</li>
     <li>Luana de Jesus Rocha</li>
     <li>Rebeca Freitas Almeida</li>
 </ol>
